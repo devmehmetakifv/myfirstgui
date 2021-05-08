@@ -1,0 +1,29 @@
+Basic Login and Register Page, Coded By Mehmet Akif VARDAR
+
+For more info, please check https://mehmetakifvardar.com
+
+-REQUIEREMENTS-
+---------------
+
+1- Install Python
+
+Go to https://www.python.org/downloads/ and download the latest version. Install on your computer.
+
+2- Creating a Python Virtual Environment
+
+You must have a virtual environment to run this program.
+
+* Open up your terminal as an administrator.
+* Type pip install virtualenv and hit enter.
+* After download finished, type virtualenv mypython , hit enter.
+* Now in order to activate the environment, type mypython\Scripts\activate . You should see (mypython) at the beginning of the line now.
+* Type pip install pysimplegui
+
+3- Running the script.
+
+* Go to project folder.
+* Copy the path of the folder.
+* Type cd (paste the path here) to your terminal and hit enter.
+* Now finally type python main.py
+
+*Enjoy.
